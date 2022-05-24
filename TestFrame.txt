@@ -1,0 +1,18 @@
+     A test frame is an include file (. inc) that serves as a central global repository of 
+information about the application under test. It contains all the data structures that 
+support your test cases and test scripts.
+     Frameworks helps in 
+   a) maintaining a common structure across the organization 
+   b) sharing of projects is easy since the test frame have a central repository file while 
+      automatically help in downloading jars for who want to clone the project.
+   c) manual configuration like downloading jars and adding them to the projects is not needed.
+   d) provides organized way from creation of base class to generate reports.
+   
+   Test frameworks supported by Selenium webdriver are:
+   1) Keyword driven: Here user inputs are given from outer source files like spreadsheet/excel
+   2) Data driven: Here user inputs are given from TestNG's data-provider annotation and I have 
+   				   followed this framework in this project.
+   3)Hybrid : It is a mix of both keyword and data driven framework. 
+   
+
+                     

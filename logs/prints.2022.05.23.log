@@ -1,0 +1,5 @@
+18:13:38.370 [main] INFO  com.ParaBank.testScripts.IndexPageTest - HomeIcon Test is done and button's display is checked
+18:13:39.895 [main] INFO  com.ParaBank.testScripts.IndexPageTest - LogoIcon Test is done and button's display is checked
+18:13:40.810 [main] INFO  com.ParaBank.testScripts.IndexPageTest - Register Test is done and button's display is checked
+18:13:50.089 [main] INFO  com.ParaBank.testScripts.HomePageTest - Browser is invoked and url is opened for HomePage Test
+18:13:51.551 [main] INFO  com.ParaBank.testScripts.HomePageTest - Credentials are entered and login is done

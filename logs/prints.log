@@ -1,0 +1,4 @@
+14:15:21.821 [main] INFO  com.ParaBank.testScripts.ForgetPageTest - Browser is invoked and url is opened for ForgetPage Test
+14:15:25.073 [main] INFO  com.ParaBank.testScripts.ForgetPageTest - Required details are provided and submitted
+14:15:25.134 [main] INFO  com.ParaBank.testScripts.ForgetPageTest - Login details are retrieved and user is successfully logged-in 
+14:15:25.491 [main] INFO  com.ParaBank.testScripts.ForgetPageTest - ForgetPage Test is done and browser is closed
